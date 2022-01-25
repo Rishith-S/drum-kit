@@ -1,0 +1,147 @@
+*{
+    background-color: #283149;
+}
+.sound{
+    margin-top: 13%;
+    margin-left: 2%;
+}
+.w{
+   background-image: url("images/tom1.png"); 
+   height: 160px;
+   width: 13%;
+   border-radius: 10%;
+   border-width: 10px;
+   border-color: #22609e;
+   background-color: white;
+   box-shadow: none;
+   border-style : solid;
+   font-size: 80px;
+   color: rgb(255, 255, 255);
+   text-shadow: 3px 0 #0ff7eb;
+   margin-right: 1%;
+}
+.a{
+   background-image: url("images/tom2.png"); 
+   height: 160px;
+   width: 13%;
+   border-radius: 10%;
+   border-width: 10px;
+   border-color: #22609e;
+   background-color: white;
+   box-shadow: none;
+   border-style : solid;
+   font-size: 80px;
+   color: rgb(255, 255, 255);
+   text-shadow: 3px 0 #0ff7eb;
+   margin-right: 1%;
+}
+.s{
+   background-image: url("images/tom3.png"); 
+   height: 160px;
+   width: 13%;
+   border-radius: 10%;
+   border-width: 10px;
+   border-color: #22609e;
+   background-color: white;
+   box-shadow: none;
+   border-style : solid;
+   font-size: 80px;
+   color: rgb(255, 255, 255);
+   text-shadow: 3px 0 #0ff7eb;
+   margin-right: 1%;
+}
+.d{
+   background-image: url("images/tom4.png"); 
+   height: 160px;
+   width: 13%;
+   border-radius: 10%;
+   border-width: 10px;
+   border-color: #22609e;
+   background-color: white;
+   box-shadow: none;
+   border-style : solid;
+   font-size: 80px;
+   color: rgb(255, 255, 255);
+   text-shadow: 3px 0 #0ff7eb;
+   margin-right: 1%;
+}
+.j{
+   background-image: url("images/snare.png"); 
+   height: 160px;
+   width: 13%;
+   border-radius: 10%;
+   border-width: 10px;
+   border-color: #22609e;
+   background-color: white;
+   box-shadow: none;
+   border-style : solid;
+   font-size: 80px;
+   color: rgb(14, 30, 66);
+   text-shadow: 3px 0 #DA0463;
+   margin-right: 1%;
+}
+.k{
+   background-image: url("images/crash.png"); 
+   height: 160px;
+   width: 13%;
+   border-radius: 10%;
+   border-width: 10px;
+   border-color: #22609e;
+   background-color: white;
+   box-shadow: none;
+   border-style : solid;
+   font-size: 80px;
+   color: rgb(14, 30, 66);
+   text-shadow: 3px 0 #DA0463;
+   margin-right: 1%;
+}
+.l{
+   background-image: url("images/kick.png"); 
+   height: 160px;
+   width: 13%;
+   border-radius: 10%;
+   border-width: 10px;
+   border-color: #22609e;
+   background-color: white;
+   box-shadow: none;
+   border-style : solid;
+   font-size: 80px;
+   color: rgb(255, 255, 255);
+   text-shadow: 3px 0 #DA0463;
+}
+.h1
+{
+   margin-left: 38%;
+   font-family: "Trebuchet MS", sans-serif;
+   text-shadow: 3px 0 #DA0463;
+   color: white;
+   font-size: 250%;
+}
+.w:active {
+   transform: scale(0.98);
+   /* Scaling button to 0.98 to its original size */
+}
+.a:active {
+   transform: scale(0.98);
+   /* Scaling button to 0.98 to its original size */
+}
+.s:active {
+   transform: scale(0.98);
+   /* Scaling button to 0.98 to its original size */
+}
+.d:active {
+   transform: scale(0.98);
+   /* Scaling button to 0.98 to its original size */
+}
+.j:active {
+   transform: scale(0.98);
+   /* Scaling button to 0.98 to its original size */
+}
+.k:active {
+   transform: scale(0.98);
+   /* Scaling button to 0.98 to its original size */
+}
+.l:active {
+   transform: scale(0.98);
+   /* Scaling button to 0.98 to its original size */
+}
